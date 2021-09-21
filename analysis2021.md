@@ -83,7 +83,7 @@ mlr --csv join -f ballots_config.csv -j choice -r decrypted_choice then sort -f 
 
 ## Ссылки
 
-[1] https://observer.mos.ru/all/servers/1/blocks
-[2] https://observer.mos.ru/1/dump/observer-20210920_060000.sql.gz, sha256: 495d1cc9136e26288208478dec98c702db73a40d93e8be76bb24d7d2be355883
-[3] jq: https://stedolan.github.io/jq/
-[4] mlr: https://miller.readthedocs.io/en/latest/
+- [1] https://observer.mos.ru/all/servers/1/blocks
+- [2] https://observer.mos.ru/1/dump/observer-20210920_060000.sql.gz, sha256: 495d1cc9136e26288208478dec98c702db73a40d93e8be76bb24d7d2be355883
+- [3] jq: https://stedolan.github.io/jq/
+- [4] mlr: https://miller.readthedocs.io/en/latest/
